@@ -84,6 +84,13 @@ video {
     top: 4em;
     overflow-x: clip;
   }
+  #dress-to-impress{
+    width: 80%;
+  }
+  #get-your-tickets {
+    width: 80%;
+  }
+
 }
 
   /* Adjust item widths for mobile */
