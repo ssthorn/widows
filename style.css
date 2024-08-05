@@ -9,6 +9,10 @@ html * {
   margin: 0;
 }
 
+#widows-ball-body {
+
+}
+
 video {
   filter:grayscale(100%);
 }
@@ -34,6 +38,16 @@ video {
   position: fixed;
   top: 1em;
   left: 1em;
+  z-index: 999;
+}
+
+#widows-home-logo {
+  width: 12em;
+  margin-top: 8em;
+  margin-bottom: 1em;
+  left: 50%;
+  right: 50%;
+  z-index:999;
 }
 
 /* .viewport-header {
